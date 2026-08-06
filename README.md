@@ -64,7 +64,16 @@ The project explores how closed virtual market assets behave compared to regulat
 ├── CS2_vs_BTC_SPY_Analysis.ipynb     # Main analytical Jupyter Notebook
 ├── asset_performance_comparison.png  # Generated high-resolution output visualization
 └── README.md                          # Executive project documentation
+```
+## How to Run the Analysis
 
-git clone [https://github.com/miriziosebastian-cmyk/cs2-vs-crypto-spy-financial-analysis.git](https://github.com/miriziosebastian-cmyk/cs2-vs-crypto-spy-financial-analysis.git)
-pip install pandas numpy matplotlib seaborn openpyxl
+1. **Clone the repository:**
+   ```bash
+   git clone (https://github.com/miriziosebastian-cmyk/cs2-vs-crypto-spy-financial-analysis.git)
+   ```
+   Install dependencies:
+   ```bash
+   pip install pandas numpy matplotlib seaborn openpyxl
+   ```
+   Execute Analysis Notebook:
 Open CS2_vs_BTC_SPY_Analysis.ipynb in Google Colab, VS Code, or Jupyter Notebook and run all cells.
