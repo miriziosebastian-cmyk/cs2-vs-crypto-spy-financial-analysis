@@ -60,10 +60,11 @@ The project explores how closed virtual market assets behave compared to regulat
 ## 📂 Project Structure
 
 ```text
-├── Copia de case study.xlsx           # Multi-sheet dataset (SPY, BTC, CS2 Case)
-├── CS2_vs_BTC_SPY_Analysis.ipynb     # Main analytical Jupyter Notebook
-├── asset_performance_comparison.png  # Generated high-resolution output visualization
-└── README.md                          # Executive project documentation
+├── CS2_vs_BTC_SPY_Analysis.xlsx                # Multi-sheet dataset (SPY, BTC, CS2 Case)
+├── CS2_vs_BTC_SPY_Analysis.ipynb               # Main analytical Jupyter Notebook
+├── asset_performance_comparison.png            # Generated high-resolution output visualization
+├── README.md                                   # Executive project documentation
+├── Case Study - CS2 Assets vs BTC & SP500.pdf  # Final report
 ```
 ## How to Run the Analysis
 
