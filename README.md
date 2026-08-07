@@ -66,6 +66,11 @@ The project explores how closed virtual market assets behave compared to regulat
 ├── README.md                                   # Executive project documentation
 ├── Case Study - CS2 Assets vs BTC & SP500.pdf  # Final report
 ```
+
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-Interactive_Dashboard-orange?style=flat&logo=tableau)](https://public.tableau.com/app/profile/sebasti.n.mirizio/viz/CS2CaseMarketAnalysis-Gamma2vsBTCvsSPY/CS2vsFinancialAssetsAnalysis)
+
+👉 **[Ver Dashboard Interactivo en Tableau Public](https://public.tableau.com/app/profile/sebasti.n.mirizio/viz/CS2CaseMarketAnalysis-Gamma2vsBTCvsSPY/CS2vsFinancialAssetsAnalysis)**
+
 ## How to Run the Analysis
 
 1. **Clone the repository:**
