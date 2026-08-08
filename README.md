@@ -47,6 +47,13 @@ The project explores how closed virtual market assets behave compared to regulat
 3. **Macro Correlation:**
    S&P 500 provided steady risk-adjusted capital preservation (3.53% monthly volatility), whereas CS2 market assets demonstrated near-zero correlation with traditional equity markets, offering potential idiosyncratic diversification benefits inside digital environments.
 
+   ### ⚠️ Key Finding: Drawdown & Opportunity Cost (2016–2020)
+* **CS2 Gamma 2 Case Extreme Loss:** Dropped from its initial peak of ~$6.07 USD down to $0.03 USD, representing a **-99.5% Max Drawdown**. It remained stagnant at $0.03 USD for over 30 consecutive months (April 2017 to January 2020).
+* **Comparative Asset Resilience:** From August 2016 onwards, the SPY experienced a worst-case drawdown of only **-2.71%**, while Bitcoin maintained a price floor where its drawdown was negligible (**-0.04%**).
+* **The Survivorship Bias & Real ROI:** Purchasing the asset at its initial release ($6.07 USD in 2016) means that even at today's price ($4.58 USD in 2026), an investor would STILL be at a ~24.5% net loss a decade later—having endured a -99.5% drawdown in between. This highlights the critical importance of entry timing and liquidity risk when analyzing non-traditional assets.
+* **Takeaway:** While the CS2 case provided astronomical asymmetrical returns after 2021 due to supply mechanics, it required enduring virtually total capital loss and severe illiquidity for almost 3 years.
+
+
 ---
 
 ## 🛠️ Data Engineering & ETL Pipeline
